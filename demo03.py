@@ -1,1 +1,1 @@
-print(length('你好'))
+print(len('你好'))
